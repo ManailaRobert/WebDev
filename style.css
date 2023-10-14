@@ -9,22 +9,22 @@ body{
 }
 
 h1{
-width: 1000px;
-background-color: #23714D;
-color: #f1ccba;
-text-align: center;
-margin: auto;
+    background-color: #23714D;
+    color: #f1ccba;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
 }
 
 #Content1{
     background-color: #23714f;
+    color: #f1ccba;
     width: 500px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    color: #f1ccba;
-    padding: 10px;
     margin-top: 10px;
+    padding: 10px;
 }
 
 #Content2{
@@ -38,11 +38,11 @@ margin: auto;
 
 #Nav1{
 background-color: #23714D;
+color: #f1ccba;
 width: 240px;
 height: 150px;
-float: left;
-color: #f1ccba;
 padding-left: 10px;
+float: left;
 text-align: left;
 }
 #Nav1 ul{
@@ -56,18 +56,18 @@ a{ /*Link*/
 }
 
 #Imagine{
-    text-align: center;
     margin: 10px;
+    text-align: center;
 }
 
 #Nav2{
     background-color: #23714D;
+    color: #f1ccba;
     width: 240px;
     height: 150px;
-    float: right;   
-    color: #f1ccba;
     padding-left: 10px;
     text-align: left;
+    float: right;   
 }
 
 
@@ -78,7 +78,7 @@ hr{
 footer{
     background-color: #23714D;
     color: #f1ccba;
-    clear: both;
     padding: 5px;
     text-align: right;
+    clear: both;
 }
